@@ -1,7 +1,7 @@
 # Monty Project
 
 ## Introduction
-This is a group project in C that focuses on implementing stack and queue data structures. The goal of the project is to create an interpreter for Monty ByteCodes files, which are files containing Monty byte codes with specific instructions to manipulate a stack.
+This is a project in C that focuses on implementing stack and queue data structures. The goal of the project is to create an interpreter for Monty ByteCodes files, which are files containing Monty byte codes with specific instructions to manipulate a stack.
 
 ## Getting Started
 To get started with the project, follow the instructions below.
